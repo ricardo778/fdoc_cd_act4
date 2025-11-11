@@ -1,6 +1,4 @@
 ,nombre,edad,ciudad,producto,precio,stock,precio_descuento,edad_futura
-a,Ana,25.0,Madrid,Laptop,1200.0,10,1080.0,30.0
 b,Bob,30.0,Lima,Teléfono,800.0,15,720.0,35.0
-c,Clara,22.0,Bogotá,Tablet,300.0,5,270.0,27.0
 d,Diego,0.0,Medellín,Laptop,1150.0,8,1035.0,
-e,Eva,28.0,Desconocido,Tablet,,0,,33.0
+a,Ana,25.0,Madrid,Laptop,1200.0,10,1080.0,30.0
